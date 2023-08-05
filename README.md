@@ -10,3 +10,4 @@
 
 #한입크기로 잘라먹는 리액트 수료증 : https://drive.google.com/file/d/1yw_TOdo8V4LTmm2ZwacEqxjboJP24b4l/view?usp=sharing
 
+#웹접근성 수료증 : https://drive.google.com/file/d/1BZsvjkyCmwJrR4L7_SpzLhUrc8i84ni8/view?usp=sharing
